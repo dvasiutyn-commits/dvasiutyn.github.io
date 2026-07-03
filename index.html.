@@ -1,9 +1,21 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>WEB110 Internet Fundamentals</title>
 </head>
 <body>
-    <p>Denys Vasutin</p>
+
+    <h1>Denys Vasutin</h1>
+
+    <ul>
+        <li><a href="assignment1.html">Assignment 1</a></li>
+        <li><a href="assignment2.html">Assignment 2</a></li>
+        <li><a href="assignment2b.html">Assignment 2B</a></li>
+        <li><a href="assignment3.html">Assignment 3</a></li>
+        <li><a href="assignment4A.html">Assignment 4A</a></li>
+        <li><a href="assignment4B.html">Assignment 4B</a></li>
+        <li><a href="assignment5a.html">Assignment 5A</a></li>
+    </ul>
+
 </body>
 </html>
